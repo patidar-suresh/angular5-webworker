@@ -2,6 +2,9 @@
 
 A simple implementation and integration of web worker in angular 5 application without ejecting.
 
+This project code is accompanied by below presentation shared on SlideShare:
+https://www.slideshare.net/SureshPatidar2/web-worker-in-your-angular-application
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
